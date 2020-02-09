@@ -41,4 +41,8 @@ $ sudo apt install composer
 $ global require phpbench/phpbench @dev
 ```
 
+License
+----
+MIT
+
 
