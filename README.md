@@ -22,15 +22,15 @@ The tools used for the benchmark
 ## Setup VMs
 From the [Okeanos Cyclades Dashboard](https://cyclades.okeanos.grnet.gr/ui/) (Academic account needed) go to create new machine and follow the steps to create your own virtual machine.
 
- <img src="https://drive.google.com/uc?id=1SoNhaRuWx7muZ8u1dQAR_R-5Rf7Px9m8" />
+![Capture](https://user-images.githubusercontent.com/3619970/74103040-99069100-4b51-11ea-979f-42632050593c.PNG)
 
- <img src="https://drive.google.com/uc?id=1xMDyvJVSXOHps4yrbLY9NKTxK-0sI2Aq" />
+![Capture1](https://user-images.githubusercontent.com/3619970/74103041-9a37be00-4b51-11ea-88b1-0849e81aede5.PNG)
 
- <img src="https://drive.google.com/uc?id=109RGB7o5PDEsE8ofIRzEj2dxolqY42pI" />
+![Capture2](https://user-images.githubusercontent.com/3619970/74103042-9ad05480-4b51-11ea-8f19-3d49ae8fcc10.PNG)
 
- <img src="https://drive.google.com/uc?id=1uJVmz-oB5XE-v57PMBtKLbbFaBZM7x9D" />
+![Capture3](https://user-images.githubusercontent.com/3619970/74103044-9c018180-4b51-11ea-988e-6b1270438ecb.PNG)
 
- <img src="https://drive.google.com/uc?id=1pCJR6iwMvxOxDr1oCmo6zR4Kn1STXTDY" />
+![Capture4](https://user-images.githubusercontent.com/3619970/74103046-9c9a1800-4b51-11ea-9cf3-1998b498e32e.PNG)
 
 
 ## Install Benchmark tools on VM
